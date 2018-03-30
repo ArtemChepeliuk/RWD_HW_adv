@@ -37,7 +37,6 @@ width: 50%;
 .content {
 display: flex;
 flex-wrap: wrap;
-justify-content: center;
 }
 .contain {
 padding: 0 10px;
